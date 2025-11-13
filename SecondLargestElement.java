@@ -20,7 +20,7 @@ public class SecondLargestElement {
 
 
      public static void main(String[] args) {
-        int []arr2={2,3,4,6,10};
+        int []arr2={2,3,4,6,10,2,8};
 
         int n=arr2.length;
        int largest=arr2[0];
